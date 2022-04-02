@@ -1,3 +1,9 @@
+#Mac File
+.DS_Store
+
+#Vscode
+.Vscode
+
 # Logs
 logs
 *.log
